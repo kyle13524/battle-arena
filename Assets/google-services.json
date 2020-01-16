@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "194502669246",
+    "firebase_url": "https://projectdk-5df4a.firebaseio.com",
+    "project_id": "projectdk-5df4a",
+    "storage_bucket": "projectdk-5df4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194502669246:android:d3cd2cf1aae48639",
+        "android_client_info": {
+          "package_name": "com.gondolabros.dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194502669246-eoih7thouu8j3d4sgeldh4dp21s314m9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "194502669246-eoih7thouu8j3d4sgeldh4dp21s314m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJ7WEY2fnWhSUQ_2Cl-XEghzpQDQPxvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
